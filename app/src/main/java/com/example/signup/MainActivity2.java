@@ -30,6 +30,8 @@ public class MainActivity2 extends AppCompatActivity {
     String phoneNo;
     String message;
 
+    //comments
+
 
 
 
